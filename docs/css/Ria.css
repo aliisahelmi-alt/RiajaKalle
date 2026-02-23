@@ -167,7 +167,7 @@ html, body {
   .haainfo-sivu .haainfo-sisalto {
     padding-top: 92px;
   }
-}
+
 
 
 .ilmoittautuminen-sivu {
@@ -272,6 +272,7 @@ html, body {
   position: relative !important;
   top: -110px !important;   /* muuta tätä arvoa: -20...-120px */
 }
+
 
 
 
